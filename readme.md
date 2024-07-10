@@ -25,6 +25,6 @@ p {
 var prueba = "Prueba";
 ```
 
-[Prueba Enlace]('https://github.com')
+[Prueba Enlace](https://github.com)
 
-![Prueba de imagen con iguana]('./assets/img/iguana-1.jpg')
+![Prueba de imagen con iguana](./assets/img/iguana-1.jpg)
