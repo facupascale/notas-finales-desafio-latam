@@ -1,13 +1,16 @@
 # Test para clase de Desafio Latam
 
-Esto es un repositorio de prueba para una clase de la academia **_Desafio Latam_**.
+## Esto es un repositorio de prueba para una clase de la academia **_Desafio Latam_**.
 
-### Alumnos:
+| Alumnos  | Generación |
+|:--------:|:----------:|
+| Luis     | G16        |
+| Claudia  | G16        |
+| Marco    | G16        |
+| Boris    | G16        |
+| *Arnold* | G16        |
 
-- Luis
-- Claudia
-- Marco
-- Boris
+---
 
 #### Muestra Codigo
 
